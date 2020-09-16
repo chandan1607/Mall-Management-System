@@ -6,7 +6,7 @@ class Mall:
         self.root.geometry("1350x700+0+0")
         title=Label(self.root,text="Mall Management System",bg="#1B9CFC",fg="#f5f6fa",font=("Bahnschrift Light SemiCondensed",40,"bold"))
         title.pack(side=TOP,fill=X)
-
+        print("chandna")
 
 
 
